@@ -1,0 +1,10 @@
+a {
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: gray;
+}
+h3 {
+	margin-bottom: 2.5em;
+}
